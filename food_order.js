@@ -233,11 +233,11 @@ pizza.addTopping(TOPPING_DOUBLE_CHEESE);
 
 Plans:
 
---> pizza_name
---> changeSize
---> removeStuffing
---> array for all order
---> remove any food order from array (change pizza)
---> object for archove orders
+TODO: pizza_name
+TODO: changeSize
+TODO: removeStuffing
+TODO: array for all order
+TODO: remove any food order from array (change pizza)
+TODO: object for archove orders
 
 */
